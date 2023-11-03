@@ -1,0 +1,17 @@
+
+Mage: <gold>, list <type>, <name>, <quantity>, <type>, <name>, <quantity> ...
+20, bagienne ziele, 3, wilcze jagody, 2
+
+Shopkeeper: <name>, <quantity>, <price>
+
+Shopkeeper1:
+bagienne ziele, 2, 5
+
+Shopkeeper2:
+bagienne ziele, 1, 3
+
+Shopkeeper3:
+wilcze jagody, 10, 10
+
+Shopkeeper4:
+wilcze jagody, 1, 1
